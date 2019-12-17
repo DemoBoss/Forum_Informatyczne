@@ -24,7 +24,8 @@ class CommentController extends Controller
     public function tworzenie_komentarza(Request $request){
 
     
-        $opis = $request->validate(['opis'=> 'required|regex:/^[][a-zA-Z0-9]+$/u']);
+       // $opis = $request->validate(['opis'=> 'required|regex:/^[][a-zA-Z0-9]+$/u']);
+       $opis = $request->validate(['opis'=> 'required']);
         $postID = $request->input('postID');
 
 
