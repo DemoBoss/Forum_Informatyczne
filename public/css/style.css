@@ -1,0 +1,232 @@
+
+
+
+#menu {
+        background-color: #999999;
+
+    }
+
+    .login_button {
+        border-right: #1b1e21;
+        text-align: center;
+
+    }
+
+
+    a > .login_button > div > p {
+        padding-top: 8%;
+        font-size: x-large;
+        color: #1b1e21;
+
+
+    }
+
+
+    .link_login:hover {
+        background-color: #5a6268;
+        padding-right: 5px;
+        box-shadow: 3px 3px 6px black;
+    }
+
+    .middle_content {
+        background-color: #FFFFFF;
+        padding: 50px;
+        margin-top: 100px;
+    }
+
+
+    .background {
+        background-color: #D7D7D7;
+        height: 100%;
+
+    }
+
+
+
+    .avatar_div {
+        box-shadow: 3px 3px 6px black;
+    }
+
+    .label_login{
+        display: inline-block;
+        margin: 20px;
+        font-size: 250%;
+    }
+
+    .login_usera_label{
+        font-size: 150%;
+    }
+
+    .edit_img:hover {
+        cursor: pointer;
+        box-shadow: 3px 3px 6px black;
+    }
+
+
+     #Temat
+     {
+         border-radius: 25px;
+         background: #455A64	;
+         border: 5px solid black	;
+         margin:0px 55px;
+         margin-top:20px;
+         margin-bottom: 20px;
+         font-weight: 500;
+         font-size: 45px;
+         min-height: 80px;
+         color: #c6c6c6;
+
+
+     }
+
+     #tematy{
+         text-align: center;
+     }
+
+    #TematContent
+    {
+        margin-left: 1px;
+        margin-top: 25px;
+        border-style: solid;
+        border-radius:25px;
+        background: #aaaaaa;
+        padding:20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 23px;
+    }
+
+
+
+    #Post
+    {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 25px;
+        border-style: solid;
+        border-radius:25px;
+        background: #DCDCDC;
+        padding:20px;
+        font-size: 20px;
+
+    }
+
+    #zawartosc-postu
+    {
+        font-size: 20px;
+        background: #DCDCDC;
+    }
+    #Ilosc_tematow-post
+    {
+        text-align: center;
+        padding-top:20px;
+        font-size: 20px;
+
+
+    }
+    #Ilosc_odpowiedzi-post
+    {
+        text-align: center;
+        padding-top:20px;
+        font-size: 15px;
+    }
+
+
+    #Icona
+    {
+
+        padding-top:20px;
+    }
+    #first-line{
+        Font-size:40px;
+        color: #212121;
+        text-align: center;
+    }
+    #Second-line{
+        Font-size:20px;
+        text-align: center;
+    }
+    #Third-line{
+        Font-size:17px;
+    }
+
+    #linki {
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+    }
+
+    .container{
+        height: 100%;
+
+
+    }
+
+    .kafelki{
+
+        background: #455A64;
+        margin: 20px;
+        color: #c6c6c6;
+    }
+
+    #Paginator{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+
+    }
+
+    #Logowanie{
+
+        background: #DCDCDC;
+        font-size: 20px;
+
+    }
+
+    #Rejestracja{
+
+        background: #DCDCDC;
+        font-size: 20px;
+
+    }
+
+    #navbarDropdown{
+
+        background: #DCDCDC;
+    }
+
+    a.a1:hover{
+        background: #b4b4b4;
+    }
+
+    #container2{
+        background-color: #4e555b;
+        padding: 25px;
+        border-radius: 20px;
+    }
+
+    #main{
+        background-color: #5a6268;
+    }
+
+    body {
+         background-color: #5a6268;
+         height: 100%;
+    }
+
+    .button{
+
+        background: none;
+        border:none;
+
+    }
+
+    .dark-primary-color    { background: #E64A19; }
+    .default-primary-color { background: #FF5722; }
+    .light-primary-color   { background: #FFCCBC; }
+    .text-primary-color    { color: #FFFFFF; }
+    .accent-color          { background: #FFC107; }
+    .primary-text-color    { color: #212121; }
+    .secondary-text-color  { color: #757575; }
+    .divider-color         { border-color: #BDBDBD; }
+
